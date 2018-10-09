@@ -30,6 +30,8 @@ class CashRegister
 
 end
 
+# OPTION 2
+
 # class CashRegister
 #   attr_accessor :total, :discount, :price, :items
 #
